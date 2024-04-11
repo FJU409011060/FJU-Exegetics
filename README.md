@@ -1,2 +1,2 @@
 # FJU_phython
-a homework file about xun-gu class
+This is a homework file about xun-gu class
