@@ -1,1 +1,1 @@
-This is a classwork repository about "Exegetics" class
+輔仁大學112-2「訓詁學」課程———Python
